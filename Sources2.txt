@@ -1,0 +1,14 @@
+https://validator.w3.org/
+https://jigsaw.w3.org/css-validator/
+https://jigsaw.w3.org/css-validator/
+https://www.w3schools.com/
+
+Form Processor 
+https://www.inventpartners.com/open-source/free-web-software/free-php-form-processor
+
+
+JQuery
+https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js
+
+anchors
+http://www.echoecho.com/htmllinks08.htm
