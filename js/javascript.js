@@ -17,3 +17,10 @@ $( ".hamburger" ).show();
 });
 
 });
+
+
+/* Smoosthscroll script...guess it needs to be in the html
+
+ var scroll = new SmoothScroll('a[href*="#"]');
+
+ */

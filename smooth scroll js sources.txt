@@ -1,0 +1,5 @@
+Fakeloader
+https://github.com/joaopereirawd/fakeLoader.js
+
+Smoothscroll
+https://codepen.io/cferdinandi/pen/wQzrdM
