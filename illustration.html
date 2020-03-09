@@ -35,7 +35,7 @@
 	<body>
 		<!-- HEADER SECTION -->
 		<header>
-			<img class="thelogo" src="images/angellogo.png" alt="Angel Negron Logo" >
+			<a href="index.html">	<img class="thelogo" src="images/angellogo.png" alt="Angel Negron Logo" ></a>
 
 
 
